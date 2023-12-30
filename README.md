@@ -9,4 +9,7 @@
 ## Used Relu with Softmax classifier
 ## Compiled and trained the model
 
+Used Data Set - https://www.kaggle.com/datasets/mdwaquarazam/agricultural-crops-image-classification
+Under the mentorship of company- MacroCosmos Creations
+
  
